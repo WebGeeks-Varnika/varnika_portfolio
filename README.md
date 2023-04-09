@@ -1,4 +1,5 @@
 # varnika_portfolio
 Analytics Project Portfolio
-Data Analysis with Python on Weather Dataset
-Data Analysis with Python on Census 2011
+<h2>Data Analysis with Python on Weather Dataset</h2>
+<br>
+<h2>Data Analysis with Python on Census 2011</h2>
